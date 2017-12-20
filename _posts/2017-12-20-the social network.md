@@ -1,12 +1,14 @@
 ---
 layout: post
 title: The Social Network
-tags: [movie]
+tags:
+  - movie
 categories:
-- blog
+  - blog
+published: true
 ---
 [The Social Network](#) is a 2010 American biographical drama film directed
-by David Fincher and written by Aaron Sorkin. Adapted from Ben Mezrich's 
+by **David Fincher** and written by **Aaron Sorkin**. Adapted from Ben Mezrich's 
 2009 book **The Accidental Billionaires: The Founding of Facebook**, 
 A Tale of Sex, Money, Genius, and Betrayal, the film portrays the 
 founding of social networking website Facebook and the resulting lawsuits.
