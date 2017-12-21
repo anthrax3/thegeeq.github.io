@@ -8,7 +8,7 @@ categories:
 
 Few Days Back, I was doing an experiment at my friend's home. For some research, while I was browsing on
 his computer, the internet connection was lost. At that time, I was browsing on chrome, and one of our
-other friends challenged us to defeat him in the [Chrome's Dino Game] (#). So, we decided that till the 
+other friends challenged us to defeat him in the [Chrome's Dino Game](#). So, we decided that till the 
 connection is restored, we will play the game. As I wasn't in habit of playing that game, I was unable 
 to beat his highest score, but I said him, *"Wait, I'll hack the game"*. 
 
