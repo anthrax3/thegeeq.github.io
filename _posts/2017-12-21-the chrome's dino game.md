@@ -44,8 +44,8 @@ If you're also interested in hacking the game, then follow the steps given below
 
     Some of the usual commands for :-
 
-    *Tweaking the Speed:*`
-      Runner.instance_.setSpeed(1000)`,or any other speed other than 1000 and press enter. 
+    *Tweaking the Speed:*
+     `Runner.instance_.setSpeed(1000)`,or any other speed other than 1000 and press enter. 
     
     *Becoming Immortal:*
      `Runner.prototype.gameOver=function (){console.log("thegeeq")}`
@@ -53,4 +53,6 @@ If you're also interested in hacking the game, then follow the steps given below
 ---
 
 Congrats !!!! You just hacked the Chrome Dino Game !!!! Happy Hacking</>.
+
+---
 
