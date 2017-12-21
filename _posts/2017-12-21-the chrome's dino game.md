@@ -35,20 +35,20 @@ If you're also interested in hacking the game, then follow the steps given below
 
 7. **The Hacking Phase -**
 
-`Runner.prototype` lists all the availaible commands.
-Before using the commands, store the original values in a variable. 
-And when you are finished playing the game, restore the values.
-For example - 
-*Storing Values:* `var a = Runnner.prototype.function`
-*Restoring Values:* `Runnner.prototype.function = a`
+   `Runner.prototype` lists all the availaible commands.
+    Before using the commands, store the original values in a variable. 
+    And when you are finished playing the game, restore the values.
+    For example - 
+    *Storing Values:* `var a = Runnner.prototype.function`
+    *Restoring Values:* `Runnner.prototype.function = a`
 
-Some of the usual commands for :-
+    Some of the usual commands for :-
 
-*Tweaking the Speed:*
-  'Runner.instance_.setSpeed(1000)',or any other speed other than 1000 and press enter. 
+    *Tweaking the Speed:*
+  `   Runner.instance_.setSpeed(1000)`,or any other speed other than 1000 and press enter. 
     
-*Becoming Immortal:*
-  'Runner.prototype.gameOver=function (){console.log("thegeeq")}'
+    *Becoming Immortal:*
+  `   Runner.prototype.gameOver=function (){console.log("thegeeq")}`
 
 ---
 
