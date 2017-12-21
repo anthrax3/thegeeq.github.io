@@ -2,8 +2,10 @@
 layout: post
 title: HACK: The Chrome's Dino Game
 tags: [hacks]
-categories:- blog
+categories:
+- blog
 ---
+
 Few Days Back, I was doing an experiment at my friend's home. For some research, while I was browsing on
 his computer, the internet connection was lost. At that time, I was browsing on chrome, and one of our
 other friends challenged us to defeat him in the [Chrome's Dino Game] (#). So, we decided that till the 
