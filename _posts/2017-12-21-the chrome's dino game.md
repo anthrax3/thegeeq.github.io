@@ -26,29 +26,29 @@ If you're also interested in hacking the game, then follow the steps given below
 
 3. Make sure you are on the *No Internet Connection* page.
 
-4. Press 'Space' and the game will start.
+4. Press `Space` and the game will start.
 
-5. If any of the above steps doesnt work, then just type 'chrome://dino' in the *address bar*.
+5. If any of the above steps doesnt work, then just type `chrome://dino` in the *address bar*.
 
-6. Press 'ctrl+shift+j' from the keyboard to open up the Chrome Console & type the commands in that 
+6. Press `ctrl+shift+j` from the keyboard to open up the Chrome Console & type the commands in that 
    console as specified below.
 
 7. **The Hacking Phase -**
 
-'Runner.prototype' lists all the availaible commands.
+`Runner.prototype` lists all the availaible commands.
 Before using the commands, store the original values in a variable. 
 And when you are finished playing the game, restore the values.
 For example - 
-*Storing Values:* 'var a = Runnner.prototype.function'
-*Restoring Values:* 'Runnner.prototype.function = a'
+*Storing Values:* `var a = Runnner.prototype.function`
+*Restoring Values:* `Runnner.prototype.function = a`
 
 Some of the usual commands for :-
 
-	a) Tweaking the Speed -----
-	   i) 'Runner.instance_.setSpeed(1000)',or any other speed other than 1000 and press enter. 
+*Tweaking the Speed*
+ 'Runner.instance_.setSpeed(1000)',or any other speed other than 1000 and press enter. 
     
-    b) Becoming Immortal ------
-       i) 'Runner.prototype.gameOver=function (){console.log("thegeeq")}'
+*Becoming Immortal*
+ 'Runner.prototype.gameOver=function (){console.log("thegeeq")}'
 
 ---
 
