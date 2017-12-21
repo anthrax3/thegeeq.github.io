@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HACK: The Chrome's Dino Game
-tags: [hack]
+tags: [hacks]
 categories:
 - blog
 ---
