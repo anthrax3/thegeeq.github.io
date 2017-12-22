@@ -1,4 +1,4 @@
 ---
 layout: tag
-title: registry hacks
+title: Registry-Hacks
 ---
