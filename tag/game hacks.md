@@ -1,4 +1,4 @@
 ---
 layout: tag
-title: game hacks
+title: Game-Hacks
 ---
