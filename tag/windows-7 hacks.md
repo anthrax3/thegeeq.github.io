@@ -1,4 +1,4 @@
 ---
 layout: tag
-title: windows-7 hacks
+title: Windows7-Hacks
 ---
