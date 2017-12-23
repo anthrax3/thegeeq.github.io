@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Windows Registry
-tags: [hacks, window-7 hacks, registry hacks]
+tags: [hacks]
 categories:
 - blog
 ---
@@ -58,6 +58,31 @@ Windows Registry contains **Five Hives** and *hives contain Keys and Sub keys an
 reinstall your operating system. I cannot guarantee that problems resulting from
 modifications to the registry can be solved. In future posts, I will be tweaking 
 the registry. Use the information provided at your own risk.
+
+---
+
+###Back up the registry
+
+Before you make changes to a registry key or subkey, I recommend that you export, or
+make a backup copy, of the key or sub key. You can save the backup copy to a location
+you specify, such as a folder on your hard disk or a removable storage device. If you make
+changes that you want to undo, you can import the backupcopy.
+
+1. Open the Registry Editor.
+
+2. Locate and click the key or subkey that you want to back up.
+
+3. Click the `File` menu, and then click `Export`.
+
+4. In the Save in box, select the location where you want to save the backup copy to,
+and then type a name for the backup file in the Filenamebox.
+
+5. Click `Save`.
+
+**Tips:** You must be logged on as an administrator to perform these steps. If you aren’t
+logged in as an administrator, you can only change settings that apply to your user
+account. Although you can back up more than just the registry key or subkey that you are
+modifying, doing so adds to the size of the backup file.
 
 ---
 
