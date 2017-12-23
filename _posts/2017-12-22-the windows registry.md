@@ -61,7 +61,7 @@ the registry. Use the information provided at your own risk.
 
 ---
 
-###Back up the registry
+### THE BACKUP
 
 Before you make changes to a registry key or subkey, I recommend that you export, or
 make a backup copy, of the key or sub key. You can save the backup copy to a location
