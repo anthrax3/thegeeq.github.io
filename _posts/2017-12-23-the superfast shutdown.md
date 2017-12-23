@@ -30,7 +30,7 @@ By tweaking the [Windows Registry](#), you can *achieve a superfast speed*
    
 7. If you have problems with programs from your computer shutting down too
    quickly, then repeat the above steps and increase the time (Step 4) a bit.
-   .
+   
 ---
 
 **Note:** Modifying the registry can cause serious problems that may require you to
