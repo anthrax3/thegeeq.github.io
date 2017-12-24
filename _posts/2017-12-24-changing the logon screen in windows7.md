@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Changing the Logon Screen of Windows 7.
+title: Changing the Logon Screen of Windows 7
 tags: [hacks]
 categories:
 - blog
