@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enabling Superfast Shutdown in Windows 7.
+title: Enabling Superfast Shutdown in Windows 7
 tags: [hacks]
 categories:
 - blog
