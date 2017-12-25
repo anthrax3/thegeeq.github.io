@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disabling/Enabling USB Ports in Windows 7.
+title: Disabling/Enabling USB Ports in Windows 7
 tags: [hacks]
 categories:
 - blog
