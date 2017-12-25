@@ -29,10 +29,8 @@ By tweaking the [Windows Registry](#), you can *disable the usb ports.*
 	a) To *enable* USB ports: change the value from `4 to 3`
 	
 	b) To *disable* USB ports: change the Value from `3 to 4`
-   
-5. Copy that image, Open `My Computer` and go to `C:\Windows\system32\oobe\info\backgrounds` folder
 
-6. Reboot, and that's it.
+5. Reboot, and that's it.
 
 ---
 
