@@ -16,7 +16,7 @@ list bubbles up towards the last place, just like a water bubble rises up to the
 
 Sorting takes place by stepping through all the data items one-by-one in pairs and comparing adjacent data items and swapping each pair that is out of order. *It works by repeatedly swapping the adjacent elements if they are in wrong order.*
 
-![bubblesort](../images/bubble-sort.png)
+![bubblesort](http://blog.thegeeq.gq/images/bubble-sort.png)
 
 In it’s most simple form bubble sort can be implemented as two loops.
 
