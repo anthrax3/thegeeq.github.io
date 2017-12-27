@@ -43,6 +43,7 @@ end BubbleSort
 ---
 
 To see Bubble Sort in action click [Bubble Sort](http://algonimator.thegeeq.gq/#path=sorting/bubble/basic)
+
 And Yeah, That's all !!!
 
 ---
