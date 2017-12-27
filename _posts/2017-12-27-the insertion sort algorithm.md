@@ -46,7 +46,7 @@ end Insertionsort
 
 ---
 
-To see this in action click [Algonimate Insertion Sort](http://algonimator.thegeeq.gq/#path=sorting/insertion/basic).
+Click here to [Algonimate Insertion Sort](http://algonimator.thegeeq.gq/#path=sorting/insertion/basic).
 
 And Yeah, That's all !!!
 
