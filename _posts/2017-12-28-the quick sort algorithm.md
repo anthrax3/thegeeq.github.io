@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Insertion Sort Algorithm
+title: The Quick Sort Algorithm
 tags: [algorithm]
 categories:
 - blog
