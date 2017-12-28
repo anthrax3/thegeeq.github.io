@@ -18,7 +18,7 @@ It is better than Selection Sort and Bubble Sort algorithms. Its space complexit
 Like Bubble Sort, Insertion Sort also requires a single additional memory space.
 
 
-![bubblesort](http://blog.thegeeq.gq/images/insertion-sort.png)
+![insertionsort](http://blog.thegeeq.gq/images/insertion-sort.png)
 
 ---
 ### THE ALGORITHM
@@ -46,7 +46,7 @@ end Insertionsort
 
 ---
 
-Click here to [Algonimate Insertion Sort](http://algonimator.thegeeq.gq/#path=sorting/insertion/basic).
+To see this in action click [Algonimate Insertion Sort](http://algonimator.thegeeq.gq/#path=sorting/insertion/basic).
 
 And Yeah, That's all !!!
 
