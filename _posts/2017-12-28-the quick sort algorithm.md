@@ -9,7 +9,7 @@ categories:
 *impera strategy*, resulting in an O(n log n) complexity. The algorithm starts by
 picking an item, called *pivot*, and *moving all smaller items before it, while all*
 *greater elements after it*. This is the main quick sort operation, called *partition,
-recursively repeated on lesser and greater sub lists until their size is one or 
+recursively repeated* on lesser and greater sub lists until their size is one or 
 zero-in which case the list is implicitly sorted.
 
 Choosing an appropriate pivot, as for example the median element is funda-
