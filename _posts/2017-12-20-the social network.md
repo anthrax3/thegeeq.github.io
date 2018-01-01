@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Social Network
-tags: [movie]
+tags: [uncategorized]
 categories:
 - blog
 ---
