@@ -53,7 +53,7 @@ end MergeSort
 
 ---
 
-To see this in action click [Algonimate Merge Sort](http://algonimator.thegeeq.gq/#path=sorting/merge/basic).
+To see this in action click [Algonimate Merge Sort](http://algonimator.thegeeq.gq/#path=sorting/merge/bottom_up).
 
 And Yeah, That's all !!!
 
