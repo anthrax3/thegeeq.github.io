@@ -18,7 +18,8 @@ So Let's start creating the resolution....
 7. Discover some new exploits.
 8. Start making more friends.
 
-That's All !!!! But That's a lot <pre></><pre> Especially the second one....
+That's All !!!! But That's a lot .... Especially the second one !!!!
 
 So, If anyone is reading this, Wish me a Good Luck for reaching these goals.
+
 ---
