@@ -36,7 +36,7 @@ And I have just published my last 24 hours experience here & I'm now feeling dro
 So, That's It !!! Now I'm going to sleep.
 
 The assignment is available on [Github](https://github.com/thegeeq/ISCCodes)<br>
-PDF's can be downloaded from [Github Releases](https://github.com/thegeeq/ISCCodes/releases)
+PDF's can be downloaded from [Releases](https://github.com/thegeeq/ISCCodes/releases)
 
 Good Bye ;-)
 
