@@ -18,7 +18,7 @@ little bit less good than those.
 
 Actually, I was required to complete an assignment given to me. The task was to create a document containing
 source codes of programs asked in last 10 years of ISC Board's Examinations. At first I thought, that's an easy
-task. As, I would just go & search on GOOGLE & then just copy-paste from its sources. But then, one of my friend
+task. As, I would just go & search on Google & then just copy-paste from its sources. But then, one of my friend
 suggested him that I should write the codes on my own as it would train my skills.... At first, I didn't took 
 him seriously. But after few hours, I thought that he may be right. So, I decided that as I'm still a beginner
 to Java, I should write it my self. So, after approx. 2 hours from then, I begin to code. With my Laptop, 
@@ -35,7 +35,7 @@ Since then, I have been coding for this long in my bed bunk & assignment has now
 And I have just published my last 24 hours experience here & I'm now feeling drowsy.
 So, That's It !!! Now I'm going to sleep.
 
-The assignment is available on [Github](https://github.com/thegeeq/ISCCodes)
+The assignment is available on [Github](https://github.com/thegeeq/ISCCodes)<br>
 PDF's can be downloaded from [Github Releases](https://github.com/thegeeq/ISCCodes/releases)
 
 Good Bye ;-)
