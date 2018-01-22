@@ -8,11 +8,11 @@ categories:
 
 The practice of coding is one of teaching the computer to do something. The purpose of programming is to create. 
 The languages, machines, compilers and interpreters are only tools; brushes to painters. Some guys think that it's
-very difficult to do.... But that's not the case.... If you love it, then you can do it for a year !!!! 
-Don't take it seriously.... I was just kidding. But Yeah, It's not that easy too.
+very difficult to do. But that's not the case. If you love it, then you can do it for a year !!!! 
+Don't take it seriously.... I was just kidding. But Yeah, It's not that easy.
 
-I have code many of my projects but not persistently. I used to take a break in between & then continued. 
-But, just a few hours ago, I coded persistently for more than 24 hours in Java. It was really a tough task,
+I have coded many of my projects but not persistently. I used to take a break in between & then continue. 
+But, just a few hours ago, I coded continuously for more than 24 hours in Java. It was really a tough task,
 However, I loved it. Not more than creating the web projects. They are really great & useful. This one is
 little bit less good than those.
 
