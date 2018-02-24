@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Resolution for 2018
+title: The Resolution: 2018
 tags: [uncategorized]
 categories:
 - blog
