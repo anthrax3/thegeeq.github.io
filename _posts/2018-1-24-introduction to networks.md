@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Network
+title: Introduction to Networks
 tags: [networking]
 categories:
 - blog
