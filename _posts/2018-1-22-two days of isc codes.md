@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two Days of Code: ISC Programs
+title: Two Days of ISC Codes
 tags: [projects]
 categories:
 - blog
