@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Introduction to Network
-tags: [networking]
+title: Hacking & Hackers Explained
+tags: [hacking]
 categories:
 - blog
 ---
