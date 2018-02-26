@@ -51,30 +51,30 @@ In the following example, suppose that person A wants to make a public key, and 
 a message. In this example, we will suppose that the message A sends to B is just a number. We assume that A and B have
 agreed on a method to encode text as numbers. Here are the steps:
 
-    1. Person A selects two prime numbers. We will use 'p=23' and 'q=41' for this example, but keep in mind that the real
-       numbers person A should use should be much larger.
+ 1. Person A selects two prime numbers. We will use 'p=23' and 'q=41' for this example, but keep in mind that the real
+    numbers person A should use should be much larger.
 
-    2. Person A multiplies 'p' and 'q' together to get `pq = (23)*(41) = 943`. '943' is the public key, which he tells
-       to person B (and to the rest of the world, if he wishes).
+ 2. Person A multiplies 'p' and 'q' together to get `pq = (23)*(41) = 943`. '943' is the public key, which he tells
+    to person B (and to the rest of the world, if he wishes).
 
-    3. Person A also chooses another number 'e' which must be relatively prime to '(p-1)(q-1)'. In this case,
-       `(p-1)(q-1) = (22)(40) = 880`, so `e=7` is fine. 'e' is also part of the public key, so B also is told the value
-       of 'e'.
+ 3. Person A also chooses another number 'e' which must be relatively prime to '(p-1)(q-1)'. In this case,
+   `(p-1)(q-1) = (22)(40) = 880`, so `e=7` is fine. 'e' is also part of the public key, so B also is told the value
+    of 'e'.
 
-    4. Now B knows enough to encode a message to A. Suppose, for this example, that the message is the number `M=35`.
+ 4. Now B knows enough to encode a message to A. Suppose, for this example, that the message is the number `M=35`.
 
-    5. B calculates the value of `C = M<sup>e<sup> (mod N) => 35<sup>7</sup> (mod 943)'.
+ 5. B calculates the value of `C = M<sup>e<sup> (mod N) => 35<sup>7</sup> (mod 943)'.
 
-    6. `35<sup>7</sup> = 64339296875 and $64339296875 (mod 943) = 545`. The number '545' is the encoding that B sends to A.
+ 6. `35<sup>7</sup> = 64339296875 and $64339296875 (mod 943) = 545`. The number '545' is the encoding that B sends to A.
 
-    7. Now A wants to decode 545. To do so, he needs to find a number 'd' such that `ed = 1 [mod(p-1)(q-1)]`, or
-       in this case, such that `7d = 1*(mod(880))`. A solution is `d=503`, since `7*503 = 3521 = 4(880) + 1 = 1*[mod(880)]`.
+ 7. Now A wants to decode 545. To do so, he needs to find a number 'd' such that `ed = 1 [mod(p-1)(q-1)]`, or
+    in this case, such that `7d = 1*(mod(880))`. A solution is `d=503`, since `7*503 = 3521 = 4(880) + 1 = 1*[mod(880)]`.
 
-    8. To find the decoding, A must calculate `C<sup>d</sup> (mod N) = 545<sup>503</sup>(mod 943)`. This looks like it will be a horrible
-       calculation, and at first it seems like it is, but notice that `503 = 256 + 128 + 64 + 32 + 16 + 4 + 2 + 1`
-      (this is just the binary expansion of 503). So this means that :-
+ 8. To find the decoding, A must calculate `C<sup>d</sup> (mod N) = 545<sup>503</sup>(mod 943)`. This looks like it will be a      horrible
+    calculation, and at first it seems like it is, but notice that `503 = 256 + 128 + 64 + 32 + 16 + 4 + 2 + 1`
+    (this is just the binary expansion of 503). So this means that :-
 
-         `545<sup>503</sup> = 545<sup>256+128+64+32+16+4+2+1</sup> = 545<sup>256</sup>*545<sup>128</sup>.....*545<sup>1</sup>'
+    `545<sup>503</sup> = 545<sup>256+128+64+32+16+4+2+1</sup> = 545<sup>256</sup>*545<sup>128</sup>.....*545<sup>1</sup>'
 
 But since we only care about the result `(mod 943)`, we can calculate all the partial results in that modulus, and by
 repeated squaring of 545, we can get all the exponents that are powers of 2.
