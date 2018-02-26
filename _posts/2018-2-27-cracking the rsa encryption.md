@@ -102,8 +102,8 @@ original message N = 35.
 
 For Demonstrating this Example, I coded a Java Applet.
 
-You can run the applet at <a href="files/rsa/RSADemo.html">RSADemo.html</a><br>
-or Download the class file from <a href="files/rsa/RSADemo.class">RSADemo.class</a><br>
+You can run the applet at <a href="https://blog.thegeeq.gq/files/rsa/RSADemo.html">RSADemo.html</a><br>
+or Download the class file from <a href="https://blog.thegeeq.gq/files/rsa/RSADemo.class">RSADemo.class</a><br>
 
 ---
 
