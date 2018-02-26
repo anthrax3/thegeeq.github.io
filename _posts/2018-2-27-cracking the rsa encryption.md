@@ -20,7 +20,7 @@ It is very simple to multiply numbers together, especially with computers. But i
 For example, if I ask you to multiply together 34537 and 99991, it is a simple matter to punch those numbers into a
 calculator and 3453389167. But the reverse problem is much harder.
 
-Suppose I give you the number 1459160519. Ill even tell you that I got it by multiplying together two integers. Can you tell
+Suppose I give you the number 1459160519. I'll even tell you that I got it by multiplying together two integers. Can you tell
 me what they are? This is a very difficult problem. A computer can factor that number fairly quickly, but (although there are
 some tricks) it basically does it by trying most of the possible combinations. For any size number, the computer has to check
 something that is of the order of the size of the square-root of the number to be factored. In this case, that square-root is
