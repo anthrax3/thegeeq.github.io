@@ -82,18 +82,18 @@ repeated squaring of 545, we can get all the exponents that are powers of 2.
 For example, 545<sup>2</sup> * (mod(943)) = 545*545 = 297025*(mod 943) = 923.
 Then square again: 545<sup>4</sup> (mod 943) = (545<sup>2</sup>)<sup>2</sup> (mod 943) = 923*923 = 851929 (mod 943) = 400, and so on.
 
-We obtain the following table:
-   545<sup>1</sup>*(mod 943) = 545
-   545<sup>2</sup>*(mod 943) = 923
-   545<sup>4</sup>*(mod 943) = 400
-   545<sup>8</sup>*(mod 943) = 633
-   545<sup>16</sup>*(mod 943) = 857
-   545<sup>32</sup>*(mod 943) = 795
-   545<sup>64</sup>*(mod 943) = 215
-   545<sup>128</sup>*(mod 943) = 18
-   545<sup>256</sup>*(mod 943) = 324
+We obtain the following table:<br>
+   545<sup>1</sup>*(mod 943) = 545<br>
+   545<sup>2</sup>*(mod 943) = 923<br>
+   545<sup>4</sup>*(mod 943) = 400<br>
+   545<sup>8</sup>*(mod 943) = 633<br>
+   545<sup>16</sup>*(mod 943) = 857<br>
+   545<sup>32</sup>*(mod 943) = 795<br>
+   545<sup>64</sup>*(mod 943) = 215<br>
+   545<sup>128</sup>*(mod 943) = 18<br>
+   545<sup>256</sup>*(mod 943) = 324<br>
 
-So the result we want is:
+So the result we want is:<br>
 
  545<sup>503</sup>*(mod 943) = 324*18*215*795*857*400*923*545*(mod 943) = 35
 
