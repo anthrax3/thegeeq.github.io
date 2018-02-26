@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cracking the RSA Encryption
-tags: [hacking], [hacks]
+tags: [hacking, hacks]
 categories:
 - blog
 ---
