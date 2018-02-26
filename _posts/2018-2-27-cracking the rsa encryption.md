@@ -83,20 +83,19 @@ For example, 545<sup>2</sup> * (mod(943)) = 545*545 = 297025*(mod 943) = 923.
 Then square again: 545<sup>4</sup> (mod 943) = (545<sup>2</sup>)<sup>2</sup> (mod 943) = 923*923 = 851929 (mod 943) = 400, and so on.
 
 We obtain the following table:
-
-    545<sup>1</sup>*(mod 943) = 545
-    545<sup>2</sup>*(mod 943) = 923
-    545<sup>4</sup>*(mod 943) = 400
-    545<sup>8</sup>*(mod 943) = 633
-    545<sup>16</sup>*(mod 943) = 857
-    545<sup>32</sup>*(mod 943) = 795
-    545<sup>64</sup>*(mod 943) = 215
-    545<sup>128</sup>*(mod 943) = 18
-    545<sup>256</sup>*(mod 943) = 324
+   545<sup>1</sup>*(mod 943) = 545
+   545<sup>2</sup>*(mod 943) = 923
+   545<sup>4</sup>*(mod 943) = 400
+   545<sup>8</sup>*(mod 943) = 633
+   545<sup>16</sup>*(mod 943) = 857
+   545<sup>32</sup>*(mod 943) = 795
+   545<sup>64</sup>*(mod 943) = 215
+   545<sup>128</sup>*(mod 943) = 18
+   545<sup>256</sup>*(mod 943) = 324
 
 So the result we want is:
 
-    `545<sup>503</sup>*(mod 943) = 324*18*215*795*857*400*923*545*(mod 943) = 35`
+ 545<sup>503</sup>*(mod 943) = 324*18*215*795*857*400*923*545*(mod 943) = 35
 
 Using this tedious (but simple for a computer) calculation, A can decode B's message and obtain the
 original message 'N = 35'.
