@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cracking the RSA Encryption
-tags: [hacking, hacks]
+tags: [hacking, hacks, algorithm]
 categories:
 - blog
 ---
@@ -83,15 +83,15 @@ For example,<br> 545<sup>2</sup> * (mod(943)) = 545*545 = 297025*(mod 943) = 923
 Then square again:<br> 545<sup>4</sup> (mod 943) = (545<sup>2</sup>)<sup>2</sup> (mod 943) = 923*923 = 851929 (mod 943) = 400, and so on.
 
 We obtain the following table:<br>
-   545<sup>1</sup>*(mod 943) = 545<br>
-   545<sup>2</sup>*(mod 943) = 923<br>
-   545<sup>4</sup>*(mod 943) = 400<br>
-   545<sup>8</sup>*(mod 943) = 633<br>
-   545<sup>16</sup>*(mod 943) = 857<br>
-   545<sup>32</sup>*(mod 943) = 795<br>
-   545<sup>64</sup>*(mod 943) = 215<br>
-   545<sup>128</sup>*(mod 943) = 18<br>
-   545<sup>256</sup>*(mod 943) = 324<br>
+   545<sup>1</sup>(mod 943) = 545<br>
+   545<sup>2</sup>(mod 943) = 923<br>
+   545<sup>4</sup>(mod 943) = 400<br>
+   545<sup>8</sup>(mod 943) = 633<br>
+   545<sup>16</sup>(mod 943) = 857<br>
+   545<sup>32</sup>(mod 943) = 795<br>
+   545<sup>64</sup>(mod 943) = 215<br>
+   545<sup>128</sup>(mod 943) = 18<br>
+   545<sup>256</sup>(mod 943) = 324<br>
 
 So the result we want is:<br>
 
@@ -102,8 +102,8 @@ original message N = 35.
 
 For Demonstrating this Example, I coded a Java Applet.
 
-You can run the applet at <a href="files/rsa/RSADemo.html">RSADemo.html</a>
-or Download the class file from <a href="files/rsa/RSADemo.class">RSADemo.class</a>
+You can run the applet at <a href="files/rsa/RSADemo.html">RSADemo.html</a><br>
+or Download the class file from <a href="files/rsa/RSADemo.class">RSADemo.class</a><br>
 
 ---
 
